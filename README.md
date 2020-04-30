@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app aims to mimic basic functionalities of Reddit. It is currently built on ruby on rails, with a (potential) react front end soon. Currently has user authentication and posts setup. To do: upvotes, comments, UI 
 
-Things you may want to cover:
+Last Updated: April 30th
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
